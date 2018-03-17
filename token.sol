@@ -163,7 +163,7 @@ contract RentIDToken is BasicToken, Ownable
     bool public finalized = false;
     
    //  This is the 'Ticker' symbol and name for our Token.
-    string public constant symbol = "RENTID";
+    string public constant symbol = "RENT";
     string public constant name = "RentIDToken";
     
     //  This is for how your token can be fracionalized. 
